@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/User/OneDrive/Documenten/Visual Studio 2022/Pong/Pong/Content/Back.png","C:/Users/User/OneDrive/Documenten/Visual Studio 2022/Pong/Pong/Content/bin/Windows/Back.xnb","TextureProcessor","Texture2DContent",5813,3686485,0,1840535
+"C:/Users/User/OneDrive/Documenten/Visual Studio 2022/Pong/Pong/Content/Ball.png","C:/Users/User/OneDrive/Documenten/Visual Studio 2022/Pong/Pong/Content/bin/Windows/Ball.xnb","TextureProcessor","Texture2DContent",132,1109,0,0019335
+"C:/Users/User/OneDrive/Documenten/Visual Studio 2022/Pong/Pong/Content/Padle.png","C:/Users/User/OneDrive/Documenten/Visual Studio 2022/Pong/Pong/Content/bin/Windows/Padle.xnb","TextureProcessor","Texture2DContent",160,6485,0,0016744
+"C:/Users/User/OneDrive/Documenten/Visual Studio 2022/Pong/Pong/Content/Welcome.spritefont","C:/Users/User/OneDrive/Documenten/Visual Studio 2022/Pong/Pong/Content/bin/Windows/Welcome.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,078863
